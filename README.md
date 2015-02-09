@@ -10,7 +10,3 @@ An application that allows programmers to find other compatible programmers to w
 
 ## tldr;
 Tinder for programmers.
-
-
-
-TEST TO SEE IF DAH CLONE WERX
